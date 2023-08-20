@@ -1,5 +1,5 @@
-## Movie Revenue Analysis in Excel
-The "Movie Revenue Analysis in Excel" project aims to showcase proficiency in Microsoft Excel by performing diverse data analysis tasks. The project involves enhancing presentation, calculating various metrics, creating visualizations, and deriving insights from movie revenue data.
+## Movie Revenue Analysis
+The "Movie Revenue Analysis" project aims to showcase proficiency in Microsoft Excel by performing diverse data analysis tasks. The project involves enhancing presentation, calculating various metrics, creating visualizations, and deriving insights from movie revenue data.
 
 #### Tools Used
 - Microsoft Excel: Data manipulation, analysis, and visualization.
