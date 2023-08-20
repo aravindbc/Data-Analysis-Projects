@@ -16,7 +16,7 @@ The project addresses several key business questions using SQL queries on the su
 - **Busiest Day of the Week**: Identifies the day of the week with the highest sales volume.
 - **Total Quantity Sold by Product Line**: Calculates the total quantity sold for each product line.
 - **Tax Collection by Gender**: Calculates the total tax amount collected for each gender.
-
+```
 -- What is the total revenue generated from the sales data in the table?
 SELECT SUM(Total) AS total_revenue
 FROM sales_table;
@@ -73,6 +73,6 @@ GROUP BY Product_line;
 SELECT Gender, SUM(COALESCE(`Tax_5%`, 0)) AS total_tax_amount
 FROM sales
 GROUP BY Gender;
-
+```
 #### Conclusion
 This project's SQL data analysis can used to enhances decision-making by providing valuable insights into sales trends, customer behavior, and product performance.
