@@ -1,5 +1,5 @@
-## McDonald's Sales Dashboard using Microsoft Excel
-The "McDonald’s Sales Dashboard" project is a sales dashboard for McDonald's South American region. It includes charts and visuals that track sales, profit, and customer satisfaction.
+## McDonald's Sales Dashboard
+This is a sales dashboard for McDonald's South American region created in Microsoft Excel. It includes charts and visuals that track sales, profit, and customer satisfaction.
 
 #### Tools Used
 - Microsoft Excel: Data manipulation, analysis, and visualization.
