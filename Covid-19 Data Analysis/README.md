@@ -1,5 +1,5 @@
 ## Covid-19 Data Analysis
-The "Covid-19 Data Analysis" project focuses on analyzing and visualizing Covid-19 cases and vaccination data in India. The project aims to uncover insights from the datasets to provide a better understanding of the pandemic's impact.
+The "Covid-19 Data Analysis" project focuses on analyzing and visualizing Covid-19 cases and vaccination data in India using Python. The project aims to uncover insights from the datasets to provide a better understanding of the pandemic's impact.
 
 #### Tools Used
 - Python: The programming language utilized for data analysis and visualization.
