@@ -17,7 +17,7 @@ The project addresses several key business questions using SQL queries on the su
 - **Total Quantity Sold by Product Line**: Calculates the total quantity sold for each product line.
 - **Tax Collection by Gender**: Calculates the total tax amount collected for each gender.
 
-- -- What is the total revenue generated from the sales data in the table?
+-- What is the total revenue generated from the sales data in the table?
 SELECT SUM(Total) AS total_revenue
 FROM sales_table;
 
