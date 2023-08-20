@@ -1,7 +1,7 @@
 ## Supermarket Sales Analysis
 The "Supermarket Sales Analysis in SQL" project focuses on leveraging SQL for comprehensive sales analysis. The project involves formulating queries to answer business questions, offering insights into product popularity, customer behavior, and overall revenue generated.
 
-#### Tools Used*
+#### Tools Used
 - SQL (MySQL): Data analysis through querying.
 
 #### SQL Queries
