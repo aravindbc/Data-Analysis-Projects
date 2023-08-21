@@ -2,7 +2,7 @@
 The "Covid-19 Data Analysis" project focuses on analyzing and visualizing Covid-19 cases and vaccination data in India using Python. The project aims to uncover insights from the datasets to provide a better understanding of the pandemic's impact.
 
 #### Tools Used
-- Jupyter Notebook for interactive data analysis
+- Jupyter Notebook for interactive data analysis.
 - Python: The programming language utilized for data analysis and visualization.
 - Python Libraries: Libraries such as pandas, numpy, matplotlib, seaborn, and plotly are required for data manipulation and visualization.
 - Covid-19 in India Dataset: The dataset containing Covid-19 cases and vaccination data specific to India. This dataset can be downloaded from Kaggle or a similar source.
