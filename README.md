@@ -5,3 +5,4 @@
 4. [Covid-19 Data Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/091ee9b0ccfa5bc81f5081e3f5c27b1c17f789eb/Covid-19%20Data%20Analysis): Data analysis & visualization using Python (pandas, numpy, matplotlib, seaborn, plotly)
 5. [McDonald’s Sales Dashboard](https://github.com/aravindbc/Data-Analysis-Projects/tree/5b7f31a1fa36fbbaa1cd7c4e05898ef6a8048487/McDonald%E2%80%99s%20Sales%20Dashboard): Data manipulation, analysis, and visualization using Microsoft Excel
 6. [Coca-Cola Interactive Dashboard](https://github.com/aravindbc/Data-Analysis-Projects/tree/a8091f93103fae7e23dc25171bdbe5a9da546d59/Coca-Cola%20Interactive%20Dashboard): Data visualization in Microsoft Excel
+7. [World Happiness Report Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/72dca66b355597084d06562597f263cd80377346/World%20Happiness%20Report%20Analysis): SQL (MySQL) for data analysis
