@@ -6,4 +6,4 @@
 5. [McDonald’s Sales Dashboard](https://github.com/aravindbc/Data-Analysis-Projects/tree/5b7f31a1fa36fbbaa1cd7c4e05898ef6a8048487/McDonald%E2%80%99s%20Sales%20Dashboard): Data manipulation, analysis, and visualization using Microsoft Excel
 6. [Coca-Cola Interactive Dashboard](https://github.com/aravindbc/Data-Analysis-Projects/tree/a8091f93103fae7e23dc25171bdbe5a9da546d59/Coca-Cola%20Interactive%20Dashboard): Data visualization in Microsoft Excel
 7. [World Happiness Report Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/72dca66b355597084d06562597f263cd80377346/World%20Happiness%20Report%20Analysis): SQL (MySQL) for data analysis
-8. 8. [Spotify Data Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/3dfed32b00514a16885d5e4f2ac3d0defdf17404/Spotify%20Data%20Analysis): Data analysis using Python
+8. [Spotify Data Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/3dfed32b00514a16885d5e4f2ac3d0defdf17404/Spotify%20Data%20Analysis): Data analysis using Python
