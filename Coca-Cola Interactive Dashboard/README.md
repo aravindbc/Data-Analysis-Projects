@@ -1,5 +1,5 @@
 # Coca-Cola Interactive Dashboard
-This Coca-Cola Interactive sales dashboard is created in Microsoft Excel. It includes visuals like monthly sales by region, brands etc.
+This 'Coca-Cola Interactive sales dashboard' is created in Microsoft Excel. It includes visuals like monthly sales by region, brands etc.
 #### Tools Used
 Microsoft Excel: Data manipulation, analysis, and visualization.
 #### Steps
