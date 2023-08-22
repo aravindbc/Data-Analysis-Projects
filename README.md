@@ -1,2 +1,4 @@
 # Data Analysis Projects
 This repository contains a collection of data analysis projects that I have worked on using tools like Excel, SQL, Python, and Power BI, The projects utilize visualization and statistical analysis techniques to gain insights from datasets.
+
+1. [Movie Revenue Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/819a6e02a00d6f0a62ee0264d7917198a445ceff/Movie%20Revenue%20Analysis): Data manipulation and visualization using Excel
