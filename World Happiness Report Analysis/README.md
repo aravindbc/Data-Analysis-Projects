@@ -1,4 +1,4 @@
-# World Happiness Report
+## World Happiness Report
 This is a SQL based project about a report that created by a nonprofit called Sustainable Development Solutions Network, 
 created by the United Nations, which publishes a yearly World Happiness Report, that contains rankings of 
 national happiness based on respondent answers merged with quality of life metrics, such as education, crime rate, 
