@@ -17,3 +17,9 @@
 3. [Coca-Cola Sales Analysis]
 4. [McDonald’s Sales Analysis]
 5. [Adidas Sales Analysis]
+### Data Analysis Projects with SQL
+1. [Supermarket Sales Analysis]
+2. [Bank Marketing Analysis]
+3. [Cereals Data Analysis]
+4. [World Happiness Report Analysis]
+5. [Airport Data Analysis]
