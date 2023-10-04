@@ -1,7 +1,4 @@
 # Projects
-4. [Covid-19 Data Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/091ee9b0ccfa5bc81f5081e3f5c27b1c17f789eb/Covid-19%20Data%20Analysis): Data analysis & visualization using Python (pandas, numpy, matplotlib, seaborn, plotly)
-8. [Spotify Data Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/3dfed32b00514a16885d5e4f2ac3d0defdf17404/Spotify%20Data%20Analysis): Data analysis using Python
-9. [Uber Trips Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/01c609ae89e36cf13f9bbb5ad73c187405d830bc/Uber%20Trips%20Analysis): Data analysis using Python
 10. [Consumer Electronics Sales Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/01c609ae89e36cf13f9bbb5ad73c187405d830bc/Consumer%20Electronics%20Sales%20Analysis): Data analysis using Python
 11. [Olympic Data Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/01c609ae89e36cf13f9bbb5ad73c187405d830bc/Olympic%20Data%20Analysis): Data analysis using Python
 12. [Titanic Data Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/01c609ae89e36cf13f9bbb5ad73c187405d830bc/Titanic%20Data%20Analysis): Data analysis using Python
@@ -24,8 +21,8 @@
 4. [Personal Finance Dashboard]
 5. [IT Expenditure Dashboard]
 ### Data Analysis and Data Visualization Projects with Python
-1. [Spotify Data Analysis]
-2. [Uber Trips Analysis]
-3. [Covid-19 in India Analysis]
+1. [Spotify Data Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/3dfed32b00514a16885d5e4f2ac3d0defdf17404/Spotify%20Data%20Analysis): Data analysis using Python
+2. [Uber Trips Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/01c609ae89e36cf13f9bbb5ad73c187405d830bc/Uber%20Trips%20Analysis): Data analysis using Python
+3. [Covid-19 in India Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/091ee9b0ccfa5bc81f5081e3f5c27b1c17f789eb/Covid-19%20Data%20Analysis): Data analysis & visualization using Python (pandas, numpy, matplotlib, seaborn, plotly)
 4. [Water Quality Analysis]
 5. [Netflix Data Analysis]
