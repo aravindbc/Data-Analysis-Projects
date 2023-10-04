@@ -1,7 +1,6 @@
 # Projects
 3. [Global Superstore Sales Dashboard](https://github.com/aravindbc/Data-Analysis-Projects/tree/e0e58cfb82ecc1ffd0e78a8dad467dc61d4d5f6a/Global%20Superstore%20Sales%20Dashboard): Interactive dashboard in Power BI
 4. [Covid-19 Data Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/091ee9b0ccfa5bc81f5081e3f5c27b1c17f789eb/Covid-19%20Data%20Analysis): Data analysis & visualization using Python (pandas, numpy, matplotlib, seaborn, plotly)
-7. [World Happiness Report Analysis]
 8. [Spotify Data Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/3dfed32b00514a16885d5e4f2ac3d0defdf17404/Spotify%20Data%20Analysis): Data analysis using Python
 9. [Uber Trips Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/01c609ae89e36cf13f9bbb5ad73c187405d830bc/Uber%20Trips%20Analysis): Data analysis using Python
 10. [Consumer Electronics Sales Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/01c609ae89e36cf13f9bbb5ad73c187405d830bc/Consumer%20Electronics%20Sales%20Analysis): Data analysis using Python
