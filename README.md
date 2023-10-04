@@ -1,7 +1,4 @@
 # Projects
-10. [Consumer Electronics Sales Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/01c609ae89e36cf13f9bbb5ad73c187405d830bc/Consumer%20Electronics%20Sales%20Analysis): Data analysis using Python
-11. [Olympic Data Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/01c609ae89e36cf13f9bbb5ad73c187405d830bc/Olympic%20Data%20Analysis): Data analysis using Python
-12. [Titanic Data Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/01c609ae89e36cf13f9bbb5ad73c187405d830bc/Titanic%20Data%20Analysis): Data analysis using Python
 ### Data Analysis and Data Visualization Projects with Excel
 1. [Bike Sales Analysis]
 2. [Movie Revenue Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/819a6e02a00d6f0a62ee0264d7917198a445ceff/Movie%20Revenue%20Analysis) : Data manipulation and visualization using Microsoft Excel
