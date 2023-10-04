@@ -29,3 +29,9 @@
 3. [Soft Drinks Sales Dashboard]
 4. [Personal Finance Dashboard]
 5. [IT Expenditure Dashboard]
+### Data Analysis and Data Visualization Projects with Python
+1. [Spotify Data Analysis]
+2. [Uber Trips Analysis]
+3. [Covid-19 in India Analysis]
+4. [Water Quality Analysis]
+5. [Netflix Data Analysis]
