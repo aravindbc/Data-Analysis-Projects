@@ -23,3 +23,9 @@
 3. [Cereals Data Analysis]
 4. [World Happiness Report Analysis]
 5. [Airport Data Analysis]
+### Data Visualization Projects with Power BI
+1. [Data Professional Survey Dashboard]
+2. [Retail Sales Dashboard]
+3. [Soft Drinks Sales Dashboard]
+4. [Personal Finance Dashboard]
+5. [IT Expenditure Dashboard]
