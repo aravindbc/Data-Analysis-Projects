@@ -1,6 +1,6 @@
 # Projects
 ### Data Analysis and Data Visualization Projects with Excel
-1. [Bike Sales Analysis]() : Data manipulation and visualization using Microsoft Excel
+1. [Bike Sales Analysis] : Data manipulation and visualization using Microsoft Excel
 2. [Movie Revenue Analysis]() : Data manipulation and visualization using Microsoft Excel
 3. [Coca-Cola Sales Analysis]() : Data visualization in Microsoft Excel
 4. [McDonald’s Sales Analysis]() : Data manipulation, analysis, and visualization using Microsoft Excel
