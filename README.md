@@ -1,6 +1,6 @@
 # Projects
 ### Data Analysis and Data Visualization Projects with Excel
-1. [Bike Sales Analysis]
+1. [Bike Sales Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/68d4923b2605bda89224c2c327d36ed70a29be07/Bike%20Sales%20Analysis) : Data manipulation and visualization using Microsoft Excel
 2. [Movie Revenue Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/819a6e02a00d6f0a62ee0264d7917198a445ceff/Movie%20Revenue%20Analysis) : Data manipulation and visualization using Microsoft Excel
 3. [Coca-Cola Sales Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/a8091f93103fae7e23dc25171bdbe5a9da546d59/Coca-Cola%20Interactive%20Dashboard) : Data visualization in Microsoft Excel
 4. [McDonald’s Sales Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/5b7f31a1fa36fbbaa1cd7c4e05898ef6a8048487/McDonald%E2%80%99s%20Sales%20Dashboard) : Data manipulation, analysis, and visualization using Microsoft Excel
