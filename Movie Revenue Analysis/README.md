@@ -23,3 +23,6 @@ In this project, I used a 'Movie Revenue' dataset to create a Microsoft Excel da
 - The drama genre garners the highest average revenue of $320,106.
 - Paramount Pictures garnered the highest average revenue of $594,519.
 - "Transformers" is the highest total revenue-earning movie on the list.
+
+### Dashboard
+![Image alt text](https://github.com/aravindbc/Data-Analysis-Projects/blob/fafb1175f1edfd494cd21a474f1c740b3b22288d/Movie%20Revenue%20Analysis/Movie_Revenue_Dashboard.png)
