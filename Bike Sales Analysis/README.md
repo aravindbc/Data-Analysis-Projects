@@ -17,4 +17,4 @@ This project involves analyzing bike sales data across various regions and occup
 - Males, with an average income of around $60,000, bought more bikes than females, averaging $55,000.
 - Roughly 20% of bike purchasers have daily commutes of 0-1 mile.
 
-![Image alt text](image path)
+![Image alt text](https://github.com/aravindbc/Data-Analysis-Projects/blob/d3ce7005f2a066d8bc1f8052e4fd07f4a1ac93c1/Bike%20Sales%20Analysis/Bike_Sales_Dashboard.png)
