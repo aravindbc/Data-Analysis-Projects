@@ -12,3 +12,6 @@ This is a sales dashboard for McDonald's South American region, created in Micro
 ### Key Insights
 - Argentina is the South American country with the most sales taking place.
 - The peak sales occur in the month of December.
+
+### Dashboard
+![Image alt text](https://github.com/aravindbc/Data-Analysis-Projects/blob/d9a23e564b4007160ba26d835e8eb36ab32ca754/McDonald%E2%80%99s%20Sales%20Analysis/McDonald%E2%80%99s_Sales_Dashboard.png)
