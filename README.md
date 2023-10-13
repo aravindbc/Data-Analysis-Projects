@@ -1,6 +1,6 @@
 # Projects
 ### Data Manipulation and Visualization using Microsoft Excel
-1. [Bike Sales Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/39ac6abbacf97eb2e48a31a22fd3afd7fc1307ce/Bike%20Sales%20Analysis) : Interactive Excel dashboard for bike sales data
+1. [Bike Sales Analysis](https://github.com/aravindbc/Data-Analysis-Projects/blob/a87680ecc779e8a90a7694f95eb535b0b9b0dfe8/Bike%20Sales%20Analysis/README.md) : Interactive Excel dashboard for bike sales data
 2. [Movie Revenue Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/fc63f7174f7a88e1bba0530585fb5f993e19bf47/Movie%20Revenue%20Analysis) : Excel dashboard for movie revenue
 3. [Coca-Cola Sales Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/ab9cadb789e4674b2d6fef63356f00485de87044/Coca-Cola%20Sales%20Analysis) : Interactive sales dashboard in Excel using Coca-Cola dataset
 4. [McDonald’s Sales Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/261a7b1cace2396cd404c562ccd9c4a75cee46cd/McDonald%E2%80%99s%20Sales%20Analysis) : McDonald's South American sales dashboard in Excel
