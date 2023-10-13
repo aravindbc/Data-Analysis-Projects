@@ -1,3 +1,5 @@
+## Movie Revenue Analysis
+
 ### Overview
 In this project, I used a 'Movie Revenue' dataset to create a Microsoft Excel dashboard. I focused on improving data presentation, performing various metric calculations, generating visuals, and extracting insights from the movie revenue data.
 
