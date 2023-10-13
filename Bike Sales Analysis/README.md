@@ -16,3 +16,5 @@ This project involves analyzing bike sales data across various regions and occup
 - Middle-aged individuals accounted for the most bike purchases, outpacing adolescents and older individuals.
 - Males, with an average income of around $60,000, bought more bikes than females, averaging $55,000.
 - Roughly 20% of bike purchasers have daily commutes of 0-1 mile.
+
+![Image alt text](image path)
