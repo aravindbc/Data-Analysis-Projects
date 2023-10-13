@@ -1,4 +1,4 @@
-![image](https://github.com/aravindbc/Data-Analysis-Projects/assets/125515856/53ca5c5a-859d-40b9-885b-f16494882ebe)# Projects
+# Projects
 ### Data Manipulation and Visualization using Microsoft Excel
 1. [Bike Sales Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/39ac6abbacf97eb2e48a31a22fd3afd7fc1307ce/Bike%20Sales%20Analysis) : Interactive Excel dashboard for bike sales data
 2. [Movie Revenue Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/fc63f7174f7a88e1bba0530585fb5f993e19bf47/Movie%20Revenue%20Analysis) : Excel dashboard for movie revenue
