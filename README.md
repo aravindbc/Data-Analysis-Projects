@@ -20,6 +20,6 @@
 ### Data Analysis and Data Visualization using Python (pandas, numpy, matplotlib, seaborn, plotly)
 1. [Spotify Data Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/29330f5ca70b0758c8fbbed85e4bb309ba235ee1/Spotify%20Data%20Analysis) : Analyzing Spotify data with Python for insights
 2. [Uber Trips Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/5e9fa7616549e6870c6c9a098555791dff92ec37/Uber%20Trips%20Analysis) : Analyzing New York Uber trips
-3. [Covid-19 in India Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/a898745aa2c2433ffd58cbb2ee44743af3ef8faa/Covid-19%20in%20India%20Analysis) : 
+3. [Covid-19 in India Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/d45e4fbf5f942bd6d060125d72e739b6dc1387b1/Covid-19%20in%20India%20Analysis) : Analyzing COVID-19 data with Python
 4. [Water Quality Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/a898745aa2c2433ffd58cbb2ee44743af3ef8faa/Water%20Quality%20Analysis)
 5. [Netflix Data Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/a898745aa2c2433ffd58cbb2ee44743af3ef8faa/Netflix%20Data%20Analysis)
