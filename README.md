@@ -17,9 +17,9 @@
 3. [Soft Drinks Sales Dashboard](https://github.com/aravindbc/Data-Analysis-Projects/tree/a898745aa2c2433ffd58cbb2ee44743af3ef8faa/Soft%20Drinks%20Sales%20Dashboard)
 4. [Personal Finance Dashboard](https://github.com/aravindbc/Data-Analysis-Projects/tree/a898745aa2c2433ffd58cbb2ee44743af3ef8faa/Personal%20Finance%20Dashboard)
 5. [IT Expenditure Dashboard](https://github.com/aravindbc/Data-Analysis-Projects/tree/a898745aa2c2433ffd58cbb2ee44743af3ef8faa/IT%20Expenditure%20Dashboard)
-### Data Analysis and Data Visualization Projects in Python
+### Data Analysis and Data Visualization using Python (pandas, numpy, matplotlib, seaborn, plotly)
 1. [Spotify Data Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/a898745aa2c2433ffd58cbb2ee44743af3ef8faa/Spotify%20Data%20Analysis) : Data analysis using Python
 2. [Uber Trips Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/a898745aa2c2433ffd58cbb2ee44743af3ef8faa/Uber%20Trips%20Analysis) : Data analysis using Python
-3. [Covid-19 in India Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/a898745aa2c2433ffd58cbb2ee44743af3ef8faa/Covid-19%20in%20India%20Analysis) : Data analysis & visualization using Python (pandas, numpy, matplotlib, seaborn, plotly)
+3. [Covid-19 in India Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/a898745aa2c2433ffd58cbb2ee44743af3ef8faa/Covid-19%20in%20India%20Analysis) : 
 4. [Water Quality Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/a898745aa2c2433ffd58cbb2ee44743af3ef8faa/Water%20Quality%20Analysis)
 5. [Netflix Data Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/a898745aa2c2433ffd58cbb2ee44743af3ef8faa/Netflix%20Data%20Analysis)
