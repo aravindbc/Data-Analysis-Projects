@@ -21,5 +21,5 @@
 1. [Spotify Data Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/29330f5ca70b0758c8fbbed85e4bb309ba235ee1/Spotify%20Data%20Analysis) : Analyzing Spotify data with Python for insights
 2. [Uber Trips Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/5e9fa7616549e6870c6c9a098555791dff92ec37/Uber%20Trips%20Analysis) : Analyzing New York Uber trips
 3. [Covid-19 in India Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/57142addf8a16e7e116c218e94ad20f483f94ef5/Covid-19%20in%20India%20Analysis) : Analyzing COVID-19 data with Python
-4. [Water Quality Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/a898745aa2c2433ffd58cbb2ee44743af3ef8faa/Water%20Quality%20Analysis)
+4. [Water Quality Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/a2c7bfd50bff00c1ed6dd92311d6d9ea4036297a/Water%20Quality%20Analysis) : Analyzing Water Quality for Potability Using Python
 5. [Netflix Data Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/a898745aa2c2433ffd58cbb2ee44743af3ef8faa/Netflix%20Data%20Analysis)
