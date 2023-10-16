@@ -7,7 +7,7 @@
 5. [Adidas Sales Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/97e410a27b09055792bfc16ef349aa0c585a34b7/Adidas%20Sales%20Analysis) : Interactive Excel dashboard for Adidas Sales
 ### Data Analysis using SQL (MySQL)
 1. [Supermarket Sales Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/f3531542c402df639e13a56d4f3bbadb4063df29/Supermarket%20Sales%20Analysis) : SQL Sales Data Analysis
-2. [Bank Marketing Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/a898745aa2c2433ffd58cbb2ee44743af3ef8faa/Bank%20Marketing%20Analysis)
+2. [Bank Marketing Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/ee6fd3d9141e88d8fdeefb6feafa967750abaaeb/Bank%20Marketing%20Analysis) : SQL Bank Marketing Strategy Analysis
 3. [Cereals Data Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/a898745aa2c2433ffd58cbb2ee44743af3ef8faa/Cereals%20Data%20Analysis)
 4. [World Happiness Report Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/a898745aa2c2433ffd58cbb2ee44743af3ef8faa/World%20Happiness%20Report%20Analysis) : SQL (MySQL) for data analysis
 5. [Airport Data Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/a898745aa2c2433ffd58cbb2ee44743af3ef8faa/Airport%20Data%20Analysis)
