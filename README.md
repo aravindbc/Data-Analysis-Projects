@@ -5,8 +5,8 @@
 3. [Coca-Cola Sales Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/f4aa702094c5307c9b15a9fdab3995c2bc64b514/Coca-Cola%20Sales%20Analysis) : Interactive sales dashboard in Excel using Coca-Cola dataset
 4. [McDonald’s Sales Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/8fd8a1c97c4b4e5fcb7a4e1e026e46daed184beb/McDonald%E2%80%99s%20Sales%20Analysis) : McDonald's South American sales dashboard in Excel
 5. [Adidas Sales Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/97e410a27b09055792bfc16ef349aa0c585a34b7/Adidas%20Sales%20Analysis) : Interactive Excel dashboard for Adidas Sales
-### Data Analysis Projects in SQL
-1. [Supermarket Sales Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/a898745aa2c2433ffd58cbb2ee44743af3ef8faa/Supermarket%20Sales%20Analysis) : Data analysis through querying using SQL (MySQL)
+### Data Analysis using SQL (MySQL)
+1. [Supermarket Sales Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/a898745aa2c2433ffd58cbb2ee44743af3ef8faa/Supermarket%20Sales%20Analysis) : 
 2. [Bank Marketing Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/a898745aa2c2433ffd58cbb2ee44743af3ef8faa/Bank%20Marketing%20Analysis)
 3. [Cereals Data Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/a898745aa2c2433ffd58cbb2ee44743af3ef8faa/Cereals%20Data%20Analysis)
 4. [World Happiness Report Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/a898745aa2c2433ffd58cbb2ee44743af3ef8faa/World%20Happiness%20Report%20Analysis) : SQL (MySQL) for data analysis
