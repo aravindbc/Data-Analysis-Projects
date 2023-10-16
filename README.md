@@ -9,7 +9,7 @@
 1. [Supermarket Sales Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/f3531542c402df639e13a56d4f3bbadb4063df29/Supermarket%20Sales%20Analysis) : SQL Sales Data Analysis
 2. [Bank Marketing Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/ee6fd3d9141e88d8fdeefb6feafa967750abaaeb/Bank%20Marketing%20Analysis) : SQL Bank Marketing Strategy Analysis
 3. [Cereals Data Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/4d442a6852c4fee85976de5f16e7be1733eac410/Cereals%20Data%20Analysis) : Cereal Nutrition Analysis Using SQL
-4. [World Happiness Report Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/a898745aa2c2433ffd58cbb2ee44743af3ef8faa/World%20Happiness%20Report%20Analysis) : SQL (MySQL) for data analysis
+4. [World Happiness Report Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/723e2e4a49b1a7a05c2593ad4525a04f05eb29db/World%20Happiness%20Report%20Analysis) : Analyze UN Happiness Report with SQL
 5. [Airport Data Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/a898745aa2c2433ffd58cbb2ee44743af3ef8faa/Airport%20Data%20Analysis)
 ### Data Visualization Projects in Power BI
 1. [Data Professional Survey Dashboard](https://github.com/aravindbc/Data-Analysis-Projects/tree/a898745aa2c2433ffd58cbb2ee44743af3ef8faa/Data%20Professional%20Survey%20Dashboard)
