@@ -11,9 +11,9 @@
 3. [Cereals Data Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/4d442a6852c4fee85976de5f16e7be1733eac410/Cereals%20Data%20Analysis) : Cereal Nutrition Analysis Using SQL
 4. [World Happiness Report Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/723e2e4a49b1a7a05c2593ad4525a04f05eb29db/World%20Happiness%20Report%20Analysis) : Analyze UN Happiness Report with SQL
 5. [Airport Data Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/01ca5528581e187f774e0686978deb8959d6ab1d/Airport%20Data%20Analysis) : Analyze airport data with SQL
-### Data Visualization Projects in Power BI
+### Interactive Dashboards in Power BI
 1. [Data Professional Survey Dashboard](https://github.com/aravindbc/Data-Analysis-Projects/tree/a898745aa2c2433ffd58cbb2ee44743af3ef8faa/Data%20Professional%20Survey%20Dashboard)
-2. [Retail Sales Dashboard](https://github.com/aravindbc/Data-Analysis-Projects/tree/a898745aa2c2433ffd58cbb2ee44743af3ef8faa/Retail%20Sales%20Dashboard) : Interactive dashboard in Power BI
+2. [Retail Sales Dashboard](https://github.com/aravindbc/Data-Analysis-Projects/tree/a898745aa2c2433ffd58cbb2ee44743af3ef8faa/Retail%20Sales%20Dashboard) : 
 3. [Soft Drinks Sales Dashboard](https://github.com/aravindbc/Data-Analysis-Projects/tree/a898745aa2c2433ffd58cbb2ee44743af3ef8faa/Soft%20Drinks%20Sales%20Dashboard)
 4. [Personal Finance Dashboard](https://github.com/aravindbc/Data-Analysis-Projects/tree/a898745aa2c2433ffd58cbb2ee44743af3ef8faa/Personal%20Finance%20Dashboard)
 5. [IT Expenditure Dashboard](https://github.com/aravindbc/Data-Analysis-Projects/tree/a898745aa2c2433ffd58cbb2ee44743af3ef8faa/IT%20Expenditure%20Dashboard)
