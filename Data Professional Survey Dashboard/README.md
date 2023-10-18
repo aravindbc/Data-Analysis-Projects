@@ -15,4 +15,4 @@ In this project, I have analyzed a survey dataset of data professionals and crea
 - The average age of the survey participants is 30 years old.
 
 ### Dashboard
-![Image alt text]()
+![Image alt text](https://github.com/aravindbc/Data-Analysis-Projects/blob/5a60a202803a0d339f449bf156e145696a51f782/Data%20Professional%20Survey%20Dashboard/Survey%20Dashboard.png)
