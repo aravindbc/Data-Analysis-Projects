@@ -15,7 +15,7 @@
 1. [Data Professional Survey Dashboard](https://github.com/aravindbc/Data-Analysis-Projects/tree/6a11d65cdd764fdbdcceb1f3192bc695a94d86a8/Data%20Professional%20Survey%20Dashboard) : Survey Analysis Dashboard
 2. [Retail Sales Dashboard](https://github.com/aravindbc/Data-Analysis-Projects/tree/22e3e809eaf31c3fa44fd1b5101ba1620c560d43/Retail%20Sales%20Dashboard) : Visualize sales data with Power BI
 3. [Soft Drinks Sales Dashboard](https://github.com/aravindbc/Data-Analysis-Projects/tree/e7ee9ef9ec189c02c4b70cb07d2fa18d699c76ef/Soft%20Drinks%20Sales%20Dashboard) : Sales Data Analysis and Visualization
-4. [Personal Finance Dashboard](https://github.com/aravindbc/Data-Analysis-Projects/tree/a898745aa2c2433ffd58cbb2ee44743af3ef8faa/Personal%20Finance%20Dashboard)
+4. [Personal Finance Dashboard](https://github.com/aravindbc/Data-Analysis-Projects/tree/ee197ee64ef64bb26226ca98e69adf097bc953d2/Personal%20Finance%20Dashboard) : Finance tracking dashboard
 5. [IT Expenditure Dashboard](https://github.com/aravindbc/Data-Analysis-Projects/tree/a898745aa2c2433ffd58cbb2ee44743af3ef8faa/IT%20Expenditure%20Dashboard)
 ### Exploratory Data Analysis using Python (pandas, numpy, matplotlib, seaborn, plotly)
 1. [Spotify Data Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/29330f5ca70b0758c8fbbed85e4bb309ba235ee1/Spotify%20Data%20Analysis) : Analyzing Spotify data with Python for insights
