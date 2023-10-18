@@ -12,7 +12,7 @@
 4. [World Happiness Report Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/723e2e4a49b1a7a05c2593ad4525a04f05eb29db/World%20Happiness%20Report%20Analysis) : Analyze UN Happiness Report with SQL
 5. [Airport Data Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/01ca5528581e187f774e0686978deb8959d6ab1d/Airport%20Data%20Analysis) : Analyze airport data with SQL
 ### Interactive Dashboards in Power BI
-1. [Data Professional Survey Dashboard](https://github.com/aravindbc/Data-Analysis-Projects/tree/6a11d65cdd764fdbdcceb1f3192bc695a94d86a8/Data%20Professional%20Survey%20Dashboard)
+1. [Data Professional Survey Dashboard](https://github.com/aravindbc/Data-Analysis-Projects/tree/6a11d65cdd764fdbdcceb1f3192bc695a94d86a8/Data%20Professional%20Survey%20Dashboard) : Survey Analysis Dashboard
 2. [Retail Sales Dashboard](https://github.com/aravindbc/Data-Analysis-Projects/tree/a898745aa2c2433ffd58cbb2ee44743af3ef8faa/Retail%20Sales%20Dashboard) : 
 3. [Soft Drinks Sales Dashboard](https://github.com/aravindbc/Data-Analysis-Projects/tree/a898745aa2c2433ffd58cbb2ee44743af3ef8faa/Soft%20Drinks%20Sales%20Dashboard)
 4. [Personal Finance Dashboard](https://github.com/aravindbc/Data-Analysis-Projects/tree/a898745aa2c2433ffd58cbb2ee44743af3ef8faa/Personal%20Finance%20Dashboard)
