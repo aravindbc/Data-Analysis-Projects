@@ -13,7 +13,7 @@
 5. [Airport Data Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/01ca5528581e187f774e0686978deb8959d6ab1d/Airport%20Data%20Analysis) : Analyze airport data with SQL
 ### Interactive Dashboards in Power BI
 1. [Data Professional Survey Dashboard](https://github.com/aravindbc/Data-Analysis-Projects/tree/6a11d65cdd764fdbdcceb1f3192bc695a94d86a8/Data%20Professional%20Survey%20Dashboard) : Survey Analysis Dashboard
-2. [Retail Sales Dashboard](https://github.com/aravindbc/Data-Analysis-Projects/tree/a898745aa2c2433ffd58cbb2ee44743af3ef8faa/Retail%20Sales%20Dashboard) : 
+2. [Retail Sales Dashboard](https://github.com/aravindbc/Data-Analysis-Projects/tree/22e3e809eaf31c3fa44fd1b5101ba1620c560d43/Retail%20Sales%20Dashboard) : Visualize sales data with Power BI
 3. [Soft Drinks Sales Dashboard](https://github.com/aravindbc/Data-Analysis-Projects/tree/a898745aa2c2433ffd58cbb2ee44743af3ef8faa/Soft%20Drinks%20Sales%20Dashboard)
 4. [Personal Finance Dashboard](https://github.com/aravindbc/Data-Analysis-Projects/tree/a898745aa2c2433ffd58cbb2ee44743af3ef8faa/Personal%20Finance%20Dashboard)
 5. [IT Expenditure Dashboard](https://github.com/aravindbc/Data-Analysis-Projects/tree/a898745aa2c2433ffd58cbb2ee44743af3ef8faa/IT%20Expenditure%20Dashboard)
