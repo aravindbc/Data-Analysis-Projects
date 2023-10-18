@@ -13,3 +13,6 @@ In this project, I have analyzed a survey dataset of data professionals and crea
 - The highest average salary is for data scientists at $94,000.
 - The most popular programming language among data professionals is Python.
 - The average age of the survey participants is 30 years old.
+
+### Dashboard
+![Image alt text]()
