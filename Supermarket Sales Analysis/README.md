@@ -12,6 +12,22 @@ In this project, I utilized MySQL Workbench to analyze extensive sales data from
 SELECT SUM(Total) AS total_revenue
 FROM sales;
 ```
+2. **Top-Selling Branch Identification:** Identified the branch (city) with the highest total sales revenue.
+```
+SELECT Branch, City, SUM(Total) AS total_revenue
+FROM sales
+GROUP BY Branch, City
+ORDER BY total_revenue DESC
+LIMIT 1;
+```
+
+
+
+
+
+
+
+
 
 
 
