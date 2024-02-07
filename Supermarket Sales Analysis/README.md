@@ -1,3 +1,22 @@
+### **Project Overview:**
+In this project, I utilized MySQL Workbench to analyze extensive sales data from a supermarket. The objective was to gain insights into various aspects of the sales, including revenue generation, top-selling branches, customer segmentation, popular products, payment methods, and sales trends.
+
+### **Technologies Used:**
+- SQL
+- MySQL
+- MySQL Workbench
+
+### **Queries and Analysis:**
+1. **Total Revenue Calculation:** Calculated the total revenue generated from the sales data in the table.
+```
+SELECT SUM(Total) AS total_revenue
+FROM sales;
+```
+
+
+
+
+
 ### Overview
 The "Supermarket Sales Analysis" project uses SQL to analyze sales comprehensively, formulating queries to answer business questions and provide insights into product popularity, customer behavior, and revenue.
 
