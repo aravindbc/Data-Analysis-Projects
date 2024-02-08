@@ -1,28 +1,27 @@
 ## Movie Revenue Analysis
 
-### Overview
-In this project, I used a 'Movie Revenue' dataset to create a Microsoft Excel dashboard. I focused on improving data presentation, performing various metric calculations, generating visuals, and extracting insights from the movie revenue data.
+### Project Overview:
+In this project, Microsoft Excel was utilized to analyze movie revenue data alongside distributor information. The objective was to provide insights into movie revenue trends, distributor performance, and genre-wise revenue distribution.
 
-### Technologies Used
+### Technologies Used:
 - Microsoft Excel
 
-### Steps
-1. Calculate Column and Row Totals.
-2. Compute Average, Min, and Max for key metrics.
-3. Calculate Month over Month changes for the latest month.
-4. Apply conditional formatting to the Month over Month column.
-5. Sort data by Totals in descending order.
-6. Add an "above average" or "below average" column based on Total value.
-7. Introduce a Distributor information column next to the movie.
-8. Create a Pivot Table displaying sum and average values for distributors.
-9. Generate a horizontal bar chart for totals by Movie.
-10. Create a vertical bar chart for average values by Genre.
-11. Produce a pie chart for average values by Distributor.
+### Tasks and Analysis:
+1. **Professional Table Presentation:** The tables were formatted to enhance readability and professionalism, catering to business stakeholders.
+2. **Column and Row Totals:** Total rows and columns were added to provide a comprehensive overview of revenue figures.
+3. **Average, Min, and Max Columns:** Additional columns were created to calculate average, minimum, and maximum revenue values.
+4. **Month Over Month (MoM) Analysis:** A column was added to calculate month-over-month revenue changes for the latest month.
+5. **Conditional Formatting:** The MoM column was conditionally formatted to visually highlight positive or negative revenue trends.
+6. **Sorting Data:** The data was sorted by total revenue in descending order for easier analysis.
+7. **Above and Below Average Classification:** A new column categorized movies as "above average" or "below average" based on their total revenue.
+8. **Distributor Integration**: The distributor information was joined with the movie revenue data to provide a holistic view of the movie business landscape.
+9. **Pivot Table Analysis:** A pivot table was created to summarize and analyze revenue and average values for distributors.
+10. **Horizontal Bar Chart:** A horizontal bar chart was generated to visualize total revenue figures by movie, facilitating easy comparison.
+11. **Vertical Bar Chart:** A vertical bar chart illustrated average revenue values by genre, providing insights into revenue distribution across different genres.
+12. **Pie Chart:** A pie chart showcased average revenue values by distributor, aiding in understanding the contribution of each distributor to the overall revenue.
 
-### Key Insights
-- The drama genre garners the highest average revenue of $320,106.
-- Paramount Pictures garnered the highest average revenue of $594,519.
-- "Transformers" is the highest total revenue-earning movie on the list.
+### Conclusion:
+Through this analysis and visualization project, valuable insights were obtained regarding movie revenue trends, distributor performance, and genre-wise revenue distribution. These insights can be utilized to optimize distribution strategies, genre selection, and distributor partnerships, ultimately enhancing overall business performance. Each task contributes to a comprehensive understanding of the movie business landscape, empowering stakeholders to make informed decisions for success.
 
 ### Dashboard
 ![Image alt text](https://github.com/aravindbc/Data-Analysis-Projects/blob/fafb1175f1edfd494cd21a474f1c740b3b22288d/Movie%20Revenue%20Analysis/Movie_Revenue_Dashboard.png)
