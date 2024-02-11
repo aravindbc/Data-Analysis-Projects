@@ -14,3 +14,6 @@ The "Global Superstore Sales Dashboard" project analyzes the Global Superstore d
 - The total sales amount to approximately $12 million.
 - The most sold product segment is "consumer."
 - The Asia Pacific is the market with the highest sales.
+
+### Dashboard
+![Image alt text]()
