@@ -16,4 +16,4 @@ The "Global Superstore Sales Dashboard" project analyzes the Global Superstore d
 - The Asia Pacific is the market with the highest sales.
 
 ### Dashboard
-![Image alt text]()
+![Image alt text](https://github.com/aravindbc/Data-Analysis-Projects/blob/0cb3f295a2f88210c38c13ce63833b4bcb31a0fa/Global%20Superstore%20Sales%20Dashboard/Dashboard.png)
