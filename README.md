@@ -1,6 +1,6 @@
 ## Excel Projects:
 1. [Bike Sales Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/f99620b6054fddef689546d8cbd44a0f07b67a4c/Bike%20Sales%20Analysis) : Interactive excel dashboard that provides insights into bike sales trends
-2. [Movie Revenue Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/25e4af2fdece6e5fc665990fb6e3b79d3d6cc6b9/Movie%20Revenue%20Analysis) : Movie Revenue Dashboard in Excel
+2. [Movie Revenue Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/25e4af2fdece6e5fc665990fb6e3b79d3d6cc6b9/Movie%20Revenue%20Analysis) : Excel Dashboard that provides insights into movie revenue data alongside distributor information
 3. [Coca-Cola Sales Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/f4aa702094c5307c9b15a9fdab3995c2bc64b514/Coca-Cola%20Sales%20Analysis) : Interactive sales dashboard in Excel using Coca-Cola dataset
 4. [McDonald’s Sales Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/8fd8a1c97c4b4e5fcb7a4e1e026e46daed184beb/McDonald%E2%80%99s%20Sales%20Analysis) : McDonald's South American sales dashboard in Excel
 5. [Adidas Sales Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/97e410a27b09055792bfc16ef349aa0c585a34b7/Adidas%20Sales%20Analysis) : Interactive Excel dashboard for Adidas Sales
