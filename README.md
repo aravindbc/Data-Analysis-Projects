@@ -12,7 +12,7 @@
 5. [Airport Data Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/01ca5528581e187f774e0686978deb8959d6ab1d/Airport%20Data%20Analysis) : Unlocking Airport Data Patterns
 ## Power BI Projects:
 1. [Data Professional Survey Dashboard](https://github.com/aravindbc/Data-Analysis-Projects/tree/6a11d65cdd764fdbdcceb1f3192bc695a94d86a8/Data%20Professional%20Survey%20Dashboard) : Survey Insights Visualization
-2. [Global Superstore Sales Dashboard](https://github.com/aravindbc/Data-Analysis-Projects/tree/613ec5acd6e28ddf84571bf360ad0cada145757b/Global%20Superstore%20Sales%20Dashboard) : Exploring Global Superstore Sales
+2. [Global Superstore Sales Dashboard](https://github.com/aravindbc/Data-Analysis-Projects/tree/445f0775927ea440964be0eb5d6d66c5af339b2d/Global%20Superstore%20Sales%20Dashboard) : Exploring Global Superstore Sales
 3. [Soft Drinks Sales Dashboard](https://github.com/aravindbc/Data-Analysis-Projects/tree/e7ee9ef9ec189c02c4b70cb07d2fa18d699c76ef/Soft%20Drinks%20Sales%20Dashboard) : Exploring Sales Trends with Power BI
 4. [Personal Finance Dashboard](https://github.com/aravindbc/Data-Analysis-Projects/tree/ee197ee64ef64bb26226ca98e69adf097bc953d2/Personal%20Finance%20Dashboard) : Tracking Personal Finances using Power BI Dashboard
 5. [IT Expenditure Dashboard](https://github.com/aravindbc/Data-Analysis-Projects/tree/fd468686b14312b153d8ca7cc12239817e0e4339/IT%20Expenditure%20Dashboard) : Visualizing IT Expenditure
