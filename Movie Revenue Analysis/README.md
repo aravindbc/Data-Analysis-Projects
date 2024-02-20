@@ -1,12 +1,12 @@
-## Movie Revenue Analysis
+## Excel Project: Movie Revenue Analysis
 
-### Project Overview:
+### Overview:
 In this project, Microsoft Excel was utilized to analyze movie revenue data alongside distributor information. The objective was to provide insights into movie revenue trends, distributor performance, and genre-wise revenue distribution.
 
-### Technologies Used:
+### Tools used:
 - Microsoft Excel
 
-### Tasks and Analysis:
+### Analysis:
 1. **Professional Table Presentation:** The tables were formatted to enhance readability and professionalism, catering to business stakeholders.
 2. **Column and Row Totals:** Total rows and columns were added to provide a comprehensive overview of revenue figures.
 3. **Average, Min, and Max Columns:** Additional columns were created to calculate average, minimum, and maximum revenue values.
