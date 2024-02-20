@@ -1,4 +1,4 @@
-## **Python Project:** Covid-19 in India Analysis
+## Python Project: Covid-19 in India Analysis
 
 ### Overview:
 In this project, Python and Jupyter Notebook were utilized to analyze COVID-19 data in India, encompassing various facets of the pandemic, including case tracking, vaccination progress, and trend analysis. The objective was to provide insights into the spread of the virus, vaccination coverage, and associated trends to aid in informed decision-making and public health strategies.
