@@ -1,7 +1,7 @@
 ## Power BI Project: Global Superstore Sales Dashboard
 
 ### Overview:
-In this Power BI project, we leverage datasets from the Global Superstore dataset to create an insightful dashboard providing key metrics and visualizations for business analysis. The dashboard is designed to offer actionable insights into sales performance, customer behavior, and product profitability.
+In this Power BI project, I leverage datasets from the Global Superstore dataset to create an insightful dashboard providing key metrics and visualizations for business analysis. The dashboard is designed to offer actionable insights into sales performance, customer behavior, and product profitability.
 
 ### Tools used:
 - Power BI Desktop
