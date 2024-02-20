@@ -1,9 +1,9 @@
-## **Power BI Project:** Global Superstore Sales Dashboard
+## Power BI Project: Global Superstore Sales Dashboard
 
-### Project Overview:
+### Overview:
 In this Power BI project, we leverage datasets from the Global Superstore dataset to create an insightful dashboard providing key metrics and visualizations for business analysis. The dashboard is designed to offer actionable insights into sales performance, customer behavior, and product profitability.
 
-### **Technologies Used:**
+### Tools used:
 - Power BI Desktop
 
 ### Visualization:
@@ -24,7 +24,7 @@ In this Power BI project, we leverage datasets from the Global Superstore datase
 - **Customer Insights:**
     - Top 5 Customers (Vertical Bar Chart): Identification of the top 5 customers with the highest purchase volumes.
 
-### **Conclusion:**
+### Conclusion:
 The Power BI dashboard provides stakeholders with comprehensive insights into sales dynamics, customer behavior, and product performance, facilitating data-driven decision-making. Through analysis of key metrics like total sales, quantity, delivery days, and returned orders, stakeholders can quickly assess performance and identify improvement areas. Visualizations such as pie and donut charts enable segmentation of sales across different customer segments and markets, aiding in targeted marketing strategies. The geographic map highlights regional sales patterns, while horizontal bar charts identify top performing products for strategic analysis. Additionally, the vertical bar chart identifies high-value customers for personalized marketing approaches. Overall, the dashboard equips stakeholders with actionable insights to optimize business strategies and drive sustainable growth in a competitive market landscape.
 
 ### Dashboard
