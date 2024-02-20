@@ -5,11 +5,11 @@
 4. [McDonald’s Sales Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/8fd8a1c97c4b4e5fcb7a4e1e026e46daed184beb/McDonald%E2%80%99s%20Sales%20Analysis) : McDonald's South American sales trends in Excel
 5. [Adidas Sales Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/97e410a27b09055792bfc16ef349aa0c585a34b7/Adidas%20Sales%20Analysis) : US Adidas sales via interactive Excel dashboard
 ## SQL Projects:
-1. [Supermarket Sales Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/daadb58339d584d2cbc1ea8a53f7f5f89c9eaba6/Supermarket%20Sales%20Analysis) : Retail Sales Data Analysis using SQL
-2. [Bank Marketing Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/ee6fd3d9141e88d8fdeefb6feafa967750abaaeb/Bank%20Marketing%20Analysis) : SQL Bank Marketing Strategy Analysis
-3. [Cereals Data Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/4d442a6852c4fee85976de5f16e7be1733eac410/Cereals%20Data%20Analysis) : Cereal Nutrition Analysis Using SQL
-4. [World Happiness Report Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/723e2e4a49b1a7a05c2593ad4525a04f05eb29db/World%20Happiness%20Report%20Analysis) : Analyze UN Happiness Report with SQL
-5. [Airport Data Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/01ca5528581e187f774e0686978deb8959d6ab1d/Airport%20Data%20Analysis) : Analyze airport data with SQL
+1. [Supermarket Sales Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/daadb58339d584d2cbc1ea8a53f7f5f89c9eaba6/Supermarket%20Sales%20Analysis) : Supermarket Sales Insights using SQL
+2. [Bank Marketing Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/ee6fd3d9141e88d8fdeefb6feafa967750abaaeb/Bank%20Marketing%20Analysis) : Evaluating Bank Marketing Strategies
+3. [Cereals Data Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/4d442a6852c4fee85976de5f16e7be1733eac410/Cereals%20Data%20Analysis) : Exploring Nutritional Patterns in Cereal Data
+4. [World Happiness Report Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/723e2e4a49b1a7a05c2593ad4525a04f05eb29db/World%20Happiness%20Report%20Analysis) : Insights from the World Happiness Report
+5. [Airport Data Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/01ca5528581e187f774e0686978deb8959d6ab1d/Airport%20Data%20Analysis) : Unlocking Airport Data Patterns
 ## Power BI Projects:
 1. [Data Professional Survey Dashboard](https://github.com/aravindbc/Data-Analysis-Projects/tree/6a11d65cdd764fdbdcceb1f3192bc695a94d86a8/Data%20Professional%20Survey%20Dashboard) : Survey Insights Visualization
 2. [Global Superstore Sales Dashboard](https://github.com/aravindbc/Data-Analysis-Projects/tree/613ec5acd6e28ddf84571bf360ad0cada145757b/Global%20Superstore%20Sales%20Dashboard) : Exploring Global Superstore Sales
