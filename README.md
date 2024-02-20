@@ -18,7 +18,7 @@
 5. [IT Expenditure Dashboard](https://github.com/aravindbc/Data-Analysis-Projects/tree/fd468686b14312b153d8ca7cc12239817e0e4339/IT%20Expenditure%20Dashboard) : Visualizing IT Expenditure
 ## Python Projects:
 1. [Spotify Data Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/29330f5ca70b0758c8fbbed85e4bb309ba235ee1/Spotify%20Data%20Analysis) : Insights into Music Trends
-2. [Uber Trips Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/5e9fa7616549e6870c6c9a098555791dff92ec37/Uber%20Trips%20Analysis) :  Analyzing Uber Trips in NYC
+2. [Uber Trips Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/5e9fa7616549e6870c6c9a098555791dff92ec37/Uber%20Trips%20Analysis) :  Analyzing Uber Trips in NYC using Python
 3. [Covid-19 in India Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/82ddcec763b8c7d63b0c6d24ab25372ab17e4a3b/Covid-19%20in%20India%20Analysis) : Mapping India's COVID-19 Journey
 4. [Water Quality Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/a2c7bfd50bff00c1ed6dd92311d6d9ea4036297a/Water%20Quality%20Analysis) : Exploring Water Quality for Safe Drinking
 5. [Netflix Data Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/b971c0f3facbfd99e63e47040e9b579b9bedd35a/Netflix%20Data%20Analysis) : Elevating Netflix with Data-driven Insights
